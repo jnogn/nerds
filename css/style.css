@@ -134,9 +134,12 @@
             }
 .main-header {margin-bottom: 80px;}
 .index-logo { width:160; height: 32px; float:left;}
+.slide {float:left; width:380px;}
 .slider > .slide > .slide-title { float:left; width:390px;
- margin-bottom: 34px; display:block; }
-.slider > .slide > .slide-text { display:block; float:left; width: 360px; margin-bottom: 60px; }
-.slider > .slide > .slide-info { float:left; width: 242px; margin-bottom: 139px; display:block;}
+ margin-bottom: 34px; }
+.slider > .slide > .slide-text { float:left; width: 360px; margin-bottom:35px;}
+.slider > .slide > .slide-info { float:left; width: 242px; margin-bottom: 139px;}
+.slider > .slide > .slide-img {float:right; width:760px; padding-left:550px;}
+
 
                                
