@@ -1,220 +1,337 @@
 .main-nav {
-	font-size:16px;
-    line-height:30px; 
+	font-size: 16px;
+    line-height: 30px; 
     color: black;
     font-weight: bold; 
-    font-family:Roboto;
+    font-family: "Roboto", sans-serif;
     text-decoration: none;
-        }
+}
+
 .basket {
-	font-size:16px;
-    line-height:30px; 
-    color:black;
+	font-size: 16px;
+    line-height: 30px; 
+    color: black;
     font-weight: bold; 
-    font-family:Roboto;
+    font-family: "Roboto", sans-serif;
     text-decoration: none;
-         }
+}
+
 .slide-title {
-	font-size:55px; 
-    line-height:55px;
-    color:black;
-    font-weight: bolder;
-    font-family: Roboto;
-               }
-.slide-text {
-	font-size:16px;
-    line-height: 24px;
-    font-weight:normal;
-    color:black;
-    font-family: Myriad Pro;
-              }
-.slide-info {
-	font-size:16px;
-    line-height:18px;
+	margin-bottom: 24px;
+	font-size: 55px; 
+    line-height: 55px;
+    color: black;
     font-weight: bold;
-    color:black;
-    font-family: Roboto;
-    text-decoration: none;
-             }
-.feature-title {
-	font-size:24px;
-    line-height: 30px;
-    font-weight:bolder;
-    color:black;
-    font-family:Roboto;
-             }
-.feature-text {
-	font-size:16px;
-    line-height:24px;
+    font-family: "Roboto", sans-serif;
+}
+
+.slide-text {
+	margin-bottom: 47px;
+	font-size: 16px;
+    line-height: 24px;
     font-weight: normal;
-    color:black;
-    font-family: Roboto;}
-.button  {
-	font-size:16px;
+    color: black;
+    font-family: "Myriad Pro", sans-serif;
+}
+
+.slide-info {
+	font-size: 16px;
     line-height: 18px;
     font-weight: bold;
-    color:black;
-    font-family:Roboto;
+    color: black;
+    font-family: "Roboto", sans-serif;
     text-decoration: none;
-         }
+}
+
+.feature {
+	margin-bottom: 161px;
+}
+
+.feature-title {
+	font-size: 24px;
+    line-height: 30px;
+    font-weight: bold;
+    color: black;
+    font-family: "Roboto", sans-serif;
+}
+
+.feature-text {
+	font-size: 16px;
+    line-height: 24px;
+    font-weight: normal;
+    color: black;
+    font-family: "Roboto", sans-serif;
+}
+
+.button  {
+	margin-bottom: 154px;
+	font-size: 16px;
+    line-height: 18px;
+    font-weight: bold;
+    color: black;
+    font-family: "Roboto", sans-serif;
+    text-decoration: none;
+}
+
 .about-us-desc-text-1 {
-	font-size:45px;
+	font-size: 45px;
     line-height: 45px;
     font-weight: bold;
     color: black;
-    font-family: Roboto;
-                      }
+    font-family: "Roboto", sans-serif;
+}
+
 .about-us-desc-text {
-	font-size:16px;
+	font-size: 16px;
     line-height: 24px;
-    font-weight:normal;
-    color:black;
-    font-family: Roboto;
-                    }
+    font-weight: normal;
+    color: black;
+    font-family: "Roboto", sans-serif;
+}
+
 .order-list-title {
 	font-size: 16px;
-    line-height:24px;
+    line-height: 24px;
     font-weight: bolder;
-    color:black;
-    font-family:Roboto;
-                  }
+    color: black;
+    font-family: "Roboto", sans-serif;
+}
+
 .about-us-order-item {
 	font-size: 16px;
     line-height: 24px;
-    font-weight:normal;
-    color:black;
-    font-family: Roboto;
-                     }
+    font-weight: normal;
+    color: black;
+    font-family: "Roboto", sans-serif;
+}
+
 .how-we-work-title {
-	font-size:16px;
-    line-height:24px;
+	font-size: 16px;
+    line-height: 24px;
     font-weight: bolder;
-    color:black;
-    font-family: Roboto;
-                   }
+    color: black;
+    font-family: "Roboto", sans-serif;
+}
+
 .how-we-work-percent {
 	font-size: 45px;
     line-height: 10.06px;
     font-weight: bolder;
-    color:black;
-    font-family: Roboto;
-                      }
+    color: black;
+    font-family: "Roboto", sans-serif;
+}
+
 .how-we-work-desc    {
-	font-size:16px;
+	font-size: 16px;
     line-height: 18px;
     font-weight: normal;
-    color:black;
-   font-family:Roboto;}
+    color: black;
+    font-family: "Roboto", sans-serif;
+}
+
 .contacts {
-	font-size:16px;
+	font-size: 16px;
     line-height: 18px;
     font-weight: normal;
-    color:black;
-    font-family:Roboto;
-    text-decoration: none;} 
+    color: black;
+    font-family: "Roboto", sans-serif;
+    text-decoration: none;
+}
+
 .friendship-title {
-	font-size:36px;
+	font-size: 36px;
     line-height: 36px;
     font-weight: bolder;
-    color:black;
-    font-family:Roboto;}
+    color: black;
+    font-family: "Roboto", sans-serif;
+}
+
 .freindship-sales {
-	font-size:16px;
+	font-size: 16px;
     line-height: 22px;
     font-weight: normal;
-    color:black;
-    font-family: Roboto;}
-.clearfix::after 
-    {
-     content:"";
-     display:table;
-     clear:both;
-    }
+    color: black;
+    font-family: "Roboto", sans-serif;
+}
+
+.clearfix::after {
+   content: "";
+   display: table;
+   clear: both;
+}
+
 .container { 
-	width:1200px;
-    padding:0px 10px;
-    margin:0 auto;}
+	width: 1200px;
+    padding: 0px 10px;
+    margin: 0 auto;
+}
+
+.header {
+	margin:0 0 80px;
+}
 .main-navigation {
 	margin: 0 auto;
-	width:640px;
+	margin-top: 81px;
+	width: 640px;
 }
+
 .main-navigation > ul {
 	list-style: none;
 }
+
 .main-navigation > ul > li {
 	float: left;
 	margin-right: 48px;
-	}
+}
 
 .user-block {   
-	width:220px;
-    float:right;
-            }
+	width: 220px;
+    float: right;
+}
+
 .main-header {
 	 margin-bottom: 80px;
-             }
-.index-logo {
-     width:160;
-     height: 32px; 
-     float:left;
 }
-.slide { margin-bottom: 82px;
+
+.index-logo {
+     width: 160;
+     height: 32px; 
+     float: left;
+}
+
+.slide { 
+	margin-bottom: 82px;
 	display: inline-flex; 
-	margin-right:10px;
-	 padding-left:140px;
-	  padding-right:140px;
-	}
+	margin-right: 10px;
+    padding-left: 140px;
+	padding-right: 140px;
+}
+
 .slider > .slide > .slide-title { 
-	width:390px;
-    margin-bottom: 34px; }
+	width: 390px;
+    margin-bottom: 34px;
+}
+
 .slider > .slide > .slide-text {
-     
-     width: 360px;
-     margin-bottom:35px;
- }
+    width: 360px;
+    margin-bottom: 35px;
+}
+
 .slider > .slide > .slide-info {  
-     width: 242px;
-     margin-bottom: 139px;
- }
+    width: 242px;
+    margin-bottom: 139px;
+}
+
 .slider > .slide > .slide-img { 
-     width:760px; 
-     padding-left:550px;
-     margin-right:50px;
- }
+    width: 760px; 
+    padding-left: 550px;
+    margin-right: 50px;
+}
+
 .feature {
-	display:inline-flex;
-	 margin-right:10px;
-	  padding-left:140px;
-	   padding-right: 140px;
-	}
-.feature {
-   padding-left:140px;
-   padding-right:140px;
-    }
+	display: inline-flex;
+	margin-right: 10px;
+	padding-left: 140px;
+	padding-right: 140px;
+}
+
 .feature-icon { 
   margin: 0 auto;
   height: 124px;
   overflow: hidden;
   margin-bottom: 28px;
 }
+
 .feature-title {
-	margin-bottom:40px;
+	margin-bottom: 40px;
 }
+
                                
 .feature-sites { 
-	width:300px; 
-    margin-right:100px;
-   }
-   .feature-apps {
-   	width:300px; 
-    margin-right:100px;}
-    .feature-pres {
-    	width:300px; 
-    margin-right:100px;
-    }
-    .feature-text {
-    	margin-bottom:40px;
-    }
-    .feature-button {
-    	margin-bottom: 160px;
-    }
+	width: 300px; 
+    margin-right: 140px;
+}
+
+.feature-apps {
+   	width: 300px; 
+    margin-right: 140px;
+}
+
+.feature-pres {
+    width: 300px; 
+    margin-right: 140px;
+}
+
+.feature-text {
+    margin-bottom: 40px;
+}
+
+.feature-button {
+    margin-bottom: 160px;
+}
+
+.about-us {
+    padding-left: 140px;
+    padding-right: 140px;
+}
+
+.about-us-desc-text-1 {
+    margin-bottom: 36px;
+}
+
+.about-us-desc-text {
+    margin-bottom: 40px;
+}
+
+.order-list-title {
+    margin-bottom: 35px;
+}
+
+.about-us-order-item {
+	list-style: none;
+	margin-bottom: 34px;
+}
+
+.how-we-work {
+    margin-right: 45px;
+	margin-left: 820px;
+	margin-top: -455px;
+}
+
+.how-we-work-title {
+	margin-bottom: 50px;
+}
+
+.how-we-work-icon {
+	margin-bottom: 40px;
+}
+
+.how-we-work-percent {
+	margin-top: 27px;
+    list-style: none;
+}
+
+.how-we-work-desc {
+	list-style: none;
+}
+
+.icons {
+	margin-bottom: 79px;
+	text-align: center;
+	display: block;
+	box-sizing: border-box;
+	position: relative;
+    padding-top: 128px;
+}
+
+.contacts {
+	display: block;
+	margin-left: 140px;
+	margin-bottom: 120px;
+	background-color: white;
+}
+
+.friendship {
+	margin-left: 540px;
+}
+
